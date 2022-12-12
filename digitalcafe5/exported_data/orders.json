@@ -1,0 +1,3 @@
+{"_id":{"$oid":"63947ee19ca2de995540613f"},"username":"chums@example.com","orderdate":{"$date":"2022-12-10T12:43:13.824Z"},"details":[{"code":"200","name":"Brewed Coffee","qty":4,"subtotal":528.0},{"code":"300","name":"Cappuccino","qty":1,"subtotal":120},{"code":"500","name":"Latte","qty":7,"subtotal":980}]}
+{"_id":{"$oid":"63948663af6aca5ca4a3ed73"},"username":"chums@example.com","orderdate":{"$date":"2022-12-10T13:15:15.107Z"},"details":[{"code":"300","name":"Cappuccino","qty":4,"subtotal":576.0}]}
+{"_id":{"$oid":"639487b4e978a4f9fff4568f"},"username":"chums@example.com","orderdate":{"$date":"2022-12-10T13:20:52.643Z"},"details":[{"code":"100","name":"Americano","qty":1,"subtotal":150.0}]}
